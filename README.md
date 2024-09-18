@@ -1,5 +1,7 @@
 # Personal Finance PowerBI Dashboard
 
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNGQ5OGEwNDYtYTYxNC00NzVmLWJjYWMtMDhhNDA3MDIwMDdiIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9
+
 A project that utilizes Microsoft PowerBI to analyze personal financial data and visualize expenses through an interactive dashboard.
 
 > _"Data analysis is not just about presenting data, but to build a story and create a meaningful narrative from the raw data. At the end of the day, that's what analytics is all about - not about writing code, not about crunching numbers, not about memorizing formula syntax - it's about deriving meaning and context from the data and, more importantly, using it to make real change."_
@@ -145,17 +147,6 @@ For future improvement, we can consider the following ideas:
 - Think of new informative metrics that may be useful.
 - Create new or modify existing dashboards for ease-of-use on mobile/tablet devices. (Can be done in Power BI Desktop)
 
-
-## Author
-
-- **AJ Singh** (https://github.com/aj112358/)
-
-
-## Acknowledgements
-
-- Creators of Microsoft PowerBI - It's a pretty amazing tool!
-- All the kind and patient cashiers who took the time to print out a receipt for me.
-- Viewers of my GitHub page...Thanks for visiting!
 
 
 <!-- Image References -->
